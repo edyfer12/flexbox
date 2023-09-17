@@ -14,6 +14,7 @@
     background-color: #5595DA;
     padding: 20px 0;
     display: flex;
+    justify-content: center;
 }
 
 /* Add CSS rule for class selector */
