@@ -9,3 +9,8 @@
 
 /* Add CSS rule for the class selector */
 
+.menu-container {
+    color: #fff;
+    background-color: #5595DA;
+    padding: 20px 0;
+}
