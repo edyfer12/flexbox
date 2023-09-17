@@ -35,3 +35,7 @@
 }
 
 /* Add CSS rule to the class selector */
+
+.login {
+    margin-left: 20px;
+}
