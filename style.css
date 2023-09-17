@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid black;
 }
 
 /* Add CSS rule for the class selector */
@@ -20,7 +19,6 @@
 /* Add CSS rule for class selector */
 
 .menu {
-    border: 1px solid #fff;
     width: 900px;
     display: flex;
     justify-content: space-between;
@@ -31,7 +29,6 @@
 .links {
     display: flex;
     justify-content: flex-end;
-    border:1px solid #fff;
 }
 
 /* Add CSS rule to the class selector */
