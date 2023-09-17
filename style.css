@@ -13,6 +13,7 @@
     color: #fff;
     background-color: #5595DA;
     padding: 20px 0;
+    display: flex;
 }
 
 /* Add CSS rule for class selector */
