@@ -75,4 +75,9 @@
 
 /* Add CSS rule for class selector */
 
-.photo-grid-item{}
+.photo-grid-item {
+    border: 1px solid black;
+    display: flex;
+    width: 300px;
+    height: 300px;
+}
