@@ -67,7 +67,11 @@
 
 /* Add CSS rule for class selector */
 
-.photo-grid{}
+.photo-grid {
+    display: flex;
+    justify-content: flex-start;
+    width: 900px;
+}
 
 /* Add CSS rule for class selector */
 
