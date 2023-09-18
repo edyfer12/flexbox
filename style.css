@@ -42,8 +42,14 @@
 .header-container {    
     display: flex;
     justify-content: center;
-    border: 1px solid black;}
+    border: 1px solid black;
+}
 
 /* Add CSS rule for the class selector */
 
-.header {}
+.header {
+    display: flex;
+    justify-content: space-around;
+    width: 1004px;
+    padding: 13px 0;
+}
