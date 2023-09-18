@@ -73,6 +73,7 @@
     width: 900px;
     flex-wrap: wrap;
     flex-direction: column;
+    align-items: center;
 }
 
 /* Add CSS rule for class selector */
