@@ -1,3 +1,3 @@
 # flexbox
 
-This page gives an introductory concept on how flexboxes are displayed on the browser.
+This page demonstrates how the flexboxes (container and items) are layed out on the whole web page.
