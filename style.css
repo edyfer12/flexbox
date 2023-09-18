@@ -39,7 +39,10 @@
 
 /* Add CSS rule for the class selector */
 
-.header-container {}
+.header-container {    
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;}
 
 /* Add CSS rule for the class selector */
 
