@@ -60,7 +60,10 @@
 
 /* Add CSS rule for class selector */
 
-.photo-grid-container{}
+.photo-grid-container {
+    display: flex;
+    justify-content: center;
+}
 
 /* Add CSS rule for class selector */
 
