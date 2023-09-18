@@ -43,7 +43,6 @@
 .header-container {    
     display: flex;
     justify-content: center;
-    border: 1px solid black;
     font-size: 26px;
     background-color: #d6e9fe;
     color: #5595DA;
