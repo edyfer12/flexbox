@@ -45,13 +45,15 @@
     justify-content: center;
     border: 1px solid black;
     font-size: 26px;
+    background-color: #d6e9fe;
+    color: #5595DA;
 }
 
 /* Add CSS rule for the class selector */
 
 .header {
     display: flex;
-    justify-content: space-around;
-    width: 976px;
-    padding: 60px 0;
+    justify-content: space-between;
+    width: 900px;
+    height: 300px;
 }
