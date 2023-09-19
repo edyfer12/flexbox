@@ -132,3 +132,7 @@
 
 /* Add CSS rule for class selector */
 
+.footer-two {
+    flex: 1;
+}
+
