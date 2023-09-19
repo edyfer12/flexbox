@@ -94,4 +94,6 @@
 
 /* Add CSS rule for class selector */
 
-.last-item {}
+.last-item {
+    order: -1;
+}
