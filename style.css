@@ -107,7 +107,10 @@
 
 /* Add CSS rule for class selector */
 
-.footer {}
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
 
 /* Add CSS rule for class selector */
 
