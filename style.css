@@ -114,5 +114,11 @@
 
 /* Add CSS rule for class selector */
 
-.footer-item {}
+.footer-item {
+    background-color: #D6E9FE;
+    display: flex;
+    border: 1px solid #fff;
+    height: 200px;
+    flex: 1;
+}
 
