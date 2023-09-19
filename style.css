@@ -124,5 +124,9 @@
 
 /* Add CSS rule for grouping selectors */
 
-
+.footer-one, .footer-three {
+    width: 300px;
+    background-color: #5995DA;
+    flex: initial;
+}
 
