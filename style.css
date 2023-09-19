@@ -87,7 +87,9 @@
 
 /* Add CSS rule for class selector */
 
-.first-item {}
+.first-item {
+    order: 1;
+}
 
 
 /* Add CSS rule for class selector */
