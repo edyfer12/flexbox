@@ -101,5 +101,6 @@
 /* Add CSS rule for group selector */
 
 .subscribe, .social {
-    
+    align-self: flex-end;
+    margin-bottom: 10px;
 }
